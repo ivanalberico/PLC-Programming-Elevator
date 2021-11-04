@@ -2,8 +2,10 @@
 
 Project of the course "Control System Technologies", Alma Mater Studiorum UniBO (Spring 2020). Design of an elevator using PLC programming on CODESYS, using both SFC and ST languages.
 
+<br/><br/>
+
 <p align="center">
-  <img width="300" height="300" src="https://user-images.githubusercontent.com/64502909/140430440-6710bbed-7c59-4eb3-8a2b-84fc8c641798.png">
+  <img width="350" height="300" src="https://user-images.githubusercontent.com/64502909/140430440-6710bbed-7c59-4eb3-8a2b-84fc8c641798.png">
 </p>
 
 <br/><br/>
